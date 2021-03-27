@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jvidalarana
+- 🌱 I’m currently learning web developing with Python :)
