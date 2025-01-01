@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jvidalarana
-- 🌱 I’m currently learning web developing with Python :)
+- 🌱 I’m currently learning web development with Python, Nodejs, and others :)
+- 🤖 I am also trying new genAI models 
